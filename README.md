@@ -39,3 +39,5 @@ CONCLUSION:
 With its support for basic arithmetic operations, exponentiation, and parentheses, this calculator provides users with a powerful tool for performing a wide range of mathematical calculations. Its intuitive interface and accurate results make it a valuable asset for anyone in need of a flexible and reliable calculator solution.
 
 OUTPUT:
+
+![Select C__WINDOWS_py exe 15-04-2024 16_07_47](https://github.com/kalasamyeswanth/sample-calculator-with-advance-features-/assets/79371940/0b0dc364-1032-43a5-a0c4-200d1b7de5e2)
