@@ -41,3 +41,6 @@ With its support for basic arithmetic operations, exponentiation, and parenthese
 OUTPUT:
 
 ![Select C__WINDOWS_py exe 15-04-2024 16_07_47](https://github.com/kalasamyeswanth/sample-calculator-with-advance-features-/assets/79371940/0b0dc364-1032-43a5-a0c4-200d1b7de5e2)
+
+![Select C__WINDOWS_py exe 15-04-2024 16_08_01](https://github.com/kalasamyeswanth/sample-calculator-with-advance-features-/assets/79371940/fa0c4082-8b45-455d-8807-a303fcbafbdf)
+
